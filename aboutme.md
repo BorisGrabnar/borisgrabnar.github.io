@@ -1,16 +1,23 @@
 ---
+title: About Me
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# About Me
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Hi, I’m Boris Grabnar – a data analyst, mechatronics enthusiast, and lifelong learner passionate about turning ideas into meaningful projects. I specialize in data analysis, STEM education, and personal growth, and I love sharing my journey through my blog and GitHub projects.
 
-What else do you need?
+## What I Do
+- **Data Analysis:** I enjoy diving into data to uncover insights, whether it’s analyzing NBA game results, tracking Bitcoin trends, or exploring other domains like business or sports. I use tools like Excel to create visualizations and actionable findings. Check out my projects on [GitHub](https://github.com/borisgrabnar).
+- **Mechatronics & STEM Education:** I’m passionate about introducing technology to young minds. I design interactive workshops, like "Robi, the Little Robot," to teach kindergarten children about mechatronics through storytelling, role-playing, and hands-on activities.
+- **Personal Growth:** I believe in continuous learning and self-improvement. My goal is to build confidence in my skills, document my progress to overcome forgetfulness (my "great virtue"), and inspire others through my experiences.
 
-### My story
+## My Journey
+I’m a systematic thinker who loves breaking down complex problems into manageable steps. Whether I’m crunching numbers, building a robot for kids, or writing a blog post, I strive to learn something new every day. My GitHub portfolio showcases my diverse interests – from sports analytics to robotics – and I’m always excited to take on new challenges.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Let’s Connect
+I’m based in Slovenia and work on solutions from home. If you’re interested in data analysis, mechatronics, or just want to chat about personal growth, feel free to reach out! You can find me on [GitHub](https://github.com/borisgrabnar) or through my blog.
+
+---
+
+**Fun Fact:** I’m a bit forgetful, so I document everything – it’s my way of turning a challenge into a strength!
