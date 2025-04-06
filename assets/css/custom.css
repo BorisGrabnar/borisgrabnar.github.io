@@ -3,8 +3,8 @@
 /*    width: auto;  /* Ohrani razmerje */
 /*}*/
 .navbar-brand .logo-circle {
-    width: 60px;  /* Povečaj širino kroga */
-    height: 60px; /* Povečaj višino kroga */
+    width: 70px;  /* Povečaj širino kroga */
+    height: 70px; /* Povečaj višino kroga */
     line-height: 60px; /* Prilagodi poravnavo */
 }
 .navbar-brand img {
