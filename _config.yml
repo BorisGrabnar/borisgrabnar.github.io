@@ -13,7 +13,7 @@
 title: My website
 
 # Your name to show in the footer
-author: Some Person
+author: Boris Grabnar
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -37,6 +37,7 @@ navbar-links:
 # Remove this parameter if you don't want an image in the navbar
 #avatar: "/assets/img/avatar-icon.png"
 logo: "/assets/img/BG_logo.png"
+avatar: "/assets/img/BG_logo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
