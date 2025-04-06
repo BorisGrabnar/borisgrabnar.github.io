@@ -1,4 +1,13 @@
+/*.navbar-brand img {
+/*    height: 50px; /* Prilagodi višino logotipa */
+/*    width: auto;  /* Ohrani razmerje */
+/*}*/
+.navbar-brand .logo-circle {
+    width: 60px;  /* Povečaj širino kroga */
+    height: 60px; /* Povečaj višino kroga */
+    line-height: 60px; /* Prilagodi poravnavo */
+}
 .navbar-brand img {
-    height: 50px; /* Prilagodi višino logotipa */
-    width: auto;  /* Ohrani razmerje */
+    height: 40px; /* Logotip naj ostane manjši */
+    width: auto;
 }
